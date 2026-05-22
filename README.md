@@ -208,19 +208,6 @@ const developer = {
 | **安全可靠** | 零信任架构，多层防护，数据一致性保障 |
 | **持续创新** | 探索 AI + 教育融合，技术驱动教学变革 |
 
----
-
-## 📫 联系我
-
-| 平台 | 链接 |
-|:---:|:---|
-| 📧 **Email** | your.email@example.com |
-| 💼 **LinkedIn** | linkedin.com/in/yourprofile |
-| 🐦 **Twitter** | @yourhandle |
-| 🌐 **个人网站** | yourwebsite.com |
-| 📝 **博客** | yourblog.com |
-
----
 
 <div align="center">
   
