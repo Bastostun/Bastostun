@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=全栈开发工程师+%7C+云计算架构师;AI+%E8%B5%8B%E8%83%BD%E6%95%99%E8%82%B2+%E2%80%A2+%E4%BA%91%E5%8E%9F%E7%94%9F+%E2%80%A2+%E8%99%9A%E6%8B%9F%E5%8C%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&multiline=true&width=800&height=100&lines=全栈开发工程师+%7C+云计算架构师;AI+%E8%B5%8B%E8%83%BD%E6%95%99%E8%82%B2+%E2%80%A2+%E4%BA%91%E5%8E%9F%E7%94%9F+%E2%80%A2+%E8%99%9A%E6%8B%9F%E5%8C%96" alt="Typing SVG" />
 </div>
 
 <br />
@@ -30,27 +30,15 @@
 
 ## 🧑‍💻 关于我
 
-```javascript
-const developer = {
-  name: "你的名字",
-  title: "全栈开发工程师 | 云计算架构师",
-  location: "中国",
-  languages: ["中文", "English"],
-  skills: {
-    frontend: ["Vue 3", "JavaScript", "Tailwind CSS", "Vite"],
-    backend: ["Go", "Gin", "WebSocket", "SQLite"],
-    infrastructure: ["Proxmox VE", "虚拟化", "容器编排"],
-    ai: ["LLM 集成", "RAG 编排", "智能分析"]
-  },
-  interests: [
-    "AI + Education 创新",
-    "云原生架构设计",
-    "高并发系统构建",
-    "零信任安全体系"
-  ],
-  currently: "探索 AI 与教育的深度融合"
-};
-```
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1200&color=4FC08D&center=false&vCenter=false&multiline=true&width=750&height=150&lines=%2F%2F+%F0%9F%9A%80+%E5%BC%80%E5%8F%91%E8%80%85%E7%94%BB%E5%83%8F%E5%8A%A0%E8%BD%BD%E4%B8%AD...;const+developer+%3D+%7B;++++name%3A+%22%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%22;++++title%3A+%22%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91+%7C+%E4%BA%91%E6%9E%B6%E6%9E%84%E5%B8%88%22;)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1200&color=00ADD8&center=false&vCenter=false&multiline=true&width=750&height=180&lines=++++skills%3A+%7B;++++++frontend%3A+%5B%22Vue+3%22%2C+%22Tailwind+CSS%22%5D;++++++backend%3A+%5B%22Go%22%2C+%22Gin%22%5D;++++++ai%3A+%5B%22LLM+%E9%9B%86%E6%88%90%22%2C+%22RAG+%E7%BC%96%E6%8E%92%22%5D;++++%7D;)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1200&color=FF6384&center=false&vCenter=false&multiline=true&width=750&height=80&lines=++++currently%3A+%22%E6%8E%A2%E7%B4%A2+AI+%2B+%E6%95%99%E8%82%B2%E8%9E%8D%E5%90%88%22;%7D;)
+
+</div>
 
 我是一名专注于 **AI 赋能教育** 和 **云计算虚拟化** 的全栈开发工程师。具备从前端交互到后端架构、从虚拟化调度到 AI 集成的全链路开发能力。擅长设计高并发、高可用的实时系统，致力于通过技术创新推动教育行业的数字化转型。
 
@@ -208,6 +196,19 @@ const developer = {
 | **安全可靠** | 零信任架构，多层防护，数据一致性保障 |
 | **持续创新** | 探索 AI + 教育融合，技术驱动教学变革 |
 
+---
+
+## 📫 联系我
+
+| 平台 | 链接 |
+|:---:|:---|
+| 📧 **Email** | your.email@example.com |
+| 💼 **LinkedIn** | linkedin.com/in/yourprofile |
+| 🐦 **Twitter** | @yourhandle |
+| 🌐 **个人网站** | yourwebsite.com |
+| 📝 **博客** | yourblog.com |
+
+---
 
 <div align="center">
   
