@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=云端智师+%7C+Cloud+Smart+Tutor;AI+%2B+虚拟化+教学平台" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=全栈开发工程师+%7C+云计算架构师;AI+%E8%B5%8B%E8%83%BD%E6%95%99%E8%82%B2+%E2%80%A2+%E4%BA%91%E5%8E%9F%E7%94%9F+%E2%80%A2+%E8%99%9A%E6%8B%9F%E5%8C%96" alt="Typing SVG" />
 </div>
 
 <br />
@@ -11,13 +11,7 @@
   [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
-  [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
   [![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
-  [![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/gin-gonic/gin)
-  
-  ![GitHub Stars](https://img.shields.io/github/stars/username/cloud-smart-tutor?style=social)
-  ![GitHub Forks](https://img.shields.io/github/forks/username/cloud-smart-tutor?style=social)
-  ![GitHub License](https://img.shields.io/github/license/username/cloud-smart-tutor?style=social)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
@@ -29,7 +23,7 @@
 
 <div align="center">
   <h3>👋 你好，欢迎来到我的个人主页</h3>
-  <p><em>一名热爱技术创新的全栈开发者，专注于 AI 赋能教育、云计算与虚拟化领域</em></p>
+  <p><em>热爱技术创新的全栈开发者，专注于 AI 赋能教育、云计算与虚拟化领域</em></p>
 </div>
 
 ---
@@ -42,153 +36,154 @@ const developer = {
   title: "全栈开发工程师 | 云计算架构师",
   location: "中国",
   languages: ["中文", "English"],
+  skills: {
+    frontend: ["Vue 3", "JavaScript", "Tailwind CSS", "Vite"],
+    backend: ["Go", "Gin", "WebSocket", "SQLite"],
+    infrastructure: ["Proxmox VE", "虚拟化", "容器编排"],
+    ai: ["LLM 集成", "RAG 编排", "智能分析"]
+  },
   interests: [
     "AI + Education 创新",
-    "云原生架构",
-    "虚拟化技术",
-    "实时通信系统"
+    "云原生架构设计",
+    "高并发系统构建",
+    "零信任安全体系"
   ],
-  currently: "构建下一代智慧教学平台"
+  currently: "探索 AI 与教育的深度融合"
 };
 ```
 
-我是一名专注于 **AI 赋能教育** 和 **云计算虚拟化** 的全栈开发工程师。通过整合前沿技术栈，我致力于构建高可用、高并发的教育科技平台，让技术真正服务于教学场景。
+我是一名专注于 **AI 赋能教育** 和 **云计算虚拟化** 的全栈开发工程师。具备从前端交互到后端架构、从虚拟化调度到 AI 集成的全链路开发能力。擅长设计高并发、高可用的实时系统，致力于通过技术创新推动教育行业的数字化转型。
 
-> 💡 **核心理念**: 以 AI 为伴，以云为基，以教育为本。
-
----
-
-## 🛠️ 技术栈
-
-### 🌐 前端技术
-
-<div align="center">
-  
-| 分类 | 技术 |
-|:---:|:---:|
-| **框架** | ![Vue3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |
-| **构建工具** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **样式** | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white) |
-| **终端** | ![xterm.js](https://img.shields.io/badge/xterm.js-3A96DD?style=flat-square&logo=xterm.js&logoColor=white) |
-| **工具库** | ![Lucide](https://img.shields.io/badge/Lucide_Icons-FF6384?style=flat-square) ![Marked](https://img.shields.io/badge/Marked-000000?style=flat-square) ![Highlight.js](https://img.shields.io/badge/Highlight.js-F0DB4F?style=flat-square&logo=javascript&logoColor=black) |
-
-</div>
-
-### ⚙️ 后端技术
-
-<div align="center">
-  
-| 分类 | 技术 |
-|:---:|:---:|
-| **语言** | ![Go](https://img.shields.io/badge/Go_1.22-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **框架** | ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **实时通信** | ![Gorilla WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white) |
-| **数据库** | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **虚拟化** | ![Proxmox VE](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) |
-
-</div>
-
-### 📐 架构模式
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                    云端智师架构                           │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐  │
-│  │  IDC 大屏    │    │ 教师控制台   │    │ 学生终端     │  │
-│  │ Dashboard   │    │ Teacher     │    │ Student     │  │
-│  └──────┬──────┘    └──────┬──────┘    └──────┬──────┘  │
-│         │                  │                  │          │
-│         └──────────────────┼──────────────────┘          │
-│                            │                             │
-│                   ┌────────▼────────┐                    │
-│                   │  WebSocket Hub  │                    │
-│                   │  高并发连接池    │                    │
-│                   └────────┬────────┘                    │
-│                            │                             │
-│         ┌──────────────────┼──────────────────┐          │
-│         ▼                  ▼                  ▼          │
-│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐  │
-│  │ PVE 调度器   │    │ AI 伴随引擎 │    │ 安全审计流   │  │
-│  │ Scheduler   │    │ AI Engine   │    │ Audit Stream│  │
-│  └─────────────┘    └─────────────┘    └─────────────┘  │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+> 💡 **核心理念**: 技术无界，创新无限；以 AI 为伴，以云为基，以教育为本。
 
 ---
 
-## 🚀 项目亮点
+## 💡 技术专长
 
-### 🎯 云端智师 Cloud Smart Tutor
+### 🌐 前端开发能力
 
-> **AI + 虚拟化 智慧教学平台**
+- **组件化架构设计**：精通 Vue 3 组合式 API，擅长构建可复用、高性能的组件库
+- **现代构建工具链**：熟练使用 Vite 实现毫秒级热更新，优化开发体验与构建效率
+- **响应式 UI 设计**：基于 Tailwind CSS 实现原子化样式，支持多端适配与暗色模式
+- **实时交互体验**：WebSocket 全双工通信，打造秒级响应的动态数据大屏
+- **终端仿真集成**：xterm.js 深度定制，实现 Web 端专业终端交互
 
-一个集成了 AI 智能辅助、虚拟机沙箱、实时审计的高并发教学系统，支持 50+ 学生同时在线实验。
+### ⚙️ 后端开发能力
 
-#### ✨ 核心功能
+- **高并发架构设计**：基于 Go Goroutine 构建高并发服务，单节点支持万级 WebSocket 连接
+- **微服务模块划分**：采用 Clean Architecture 原则，实现模块解耦与职责清晰
+- **实时通信系统**：设计房间广播、读写分离、心跳保活等核心机制
+- **内存级数据处理**：FNV-32a 哈希聚类算法，动态阈值告警，零延迟响应
+- **线程安全设计**：sync.RWMutex 多层级锁策略，确保并发场景下的数据一致性
 
-| 模块 | 描述 |
-|:---:|:---|
-| 📊 **IDC 仪表盘** | 实时监控算力集群状态、节点健康、资源利用率 |
-| 👩‍🏫 **教师控制台** | 班级管理、VM 批量克隆、错误聚类分析 |
-| 🎓 **学生终端** | xterm.js 终端仿真、AI 伴学、工作空间管理 |
-| 🔍 **审计系统** | 零信任安全审计、剪贴板/网络/键盘监控 |
-| 🤖 **AI 伴随** | 自动错误分析、解决方案生成、教学建议 |
-| 🏢 **企业沙箱** | 企业级虚拟实验环境、安全隔离 |
+### ☁️ 云计算与虚拟化
 
-#### 📈 技术突破
+- **虚拟化集群管理**：Proxmox VE API 深度集成，实现 VM 生命周期管理
+- **并发调度优化**：Goroutine 工作池 + Channel 任务分发，50 台 VM 10 秒内批量拉起
+- **资源监控体系**：节点心跳监测、指标采集与可视化展示
+- **沙箱隔离方案**：零信任安全架构，6 层防护规则 + 4 级干预机制
+
+### 🤖 AI 与智能化
+
+- **LLM API 集成**：大模型 API 对接与 RAG 编排，实现智能问答与内容生成
+- **智能错误分析**：自动识别错误模式，生成置信度评分的解决方案
+- **教学辅助系统**：AI 伴随式响应，根据学生行为实时生成教学建议
+- **数据驱动决策**：错误聚类统计、动态阈值预警，辅助教学优化
+
+---
+
+## 🛠️ 技术栈全景
 
 ```
-🔥 高并发架构
-   ├─ WebSocket 房间广播机制
-   ├─ Goroutine 工作池调度
-   └─ 50台VM 10秒内批量拉起
-
-🧠 智能聚类引擎
-   ├─ FNV-32a 哈希聚类算法
-   ├─ 动态阈值教学预警
-   └─ AI 解决方案自动生成
-
-🔒 零信任安全
-   ├─ 6层安全防护规则
-   ├─ 4级干预动作
-   └─ 毫秒级实时推送
+┌──────────────────────────────────────────────────────────┐
+│                    技 术 栈 全 景                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  前端层                                                   │
+│  ┌─────────┐ ┌─────────┐ ┌──────────┐ ┌──────────┐     │
+│  │ Vue 3   │ │ Vite    │ │ Tailwind │ │ xterm.js │     │
+│  │ Router  │ │ Build   │ │ PostCSS  │ │ Lucide   │     │
+│  └─────────┘ └─────────┘ └──────────┘ └──────────┘     │
+│                                                          │
+│  ────────────────── 通信层 ──────────────────            │
+│  ┌────────────────────────────────────────────────┐     │
+│  │         WebSocket 全双工实时通信                │     │
+│  └────────────────────────────────────────────────┘     │
+│                                                          │
+│  后端层                                                   │
+│  ┌─────────┐ ┌─────────┐ ┌──────────┐ ┌──────────┐     │
+│  │ Go 1.22 │ │ Gin     │ │ SQLite   │ │ Gorilla  │     │
+│  │         │ │ Router  │ │ Database │ │ WS       │     │
+│  └─────────┘ └─────────┘ └──────────┘ └──────────┘     │
+│                                                          │
+│  基础设施层                                               │
+│  ┌────────────────────────────────────────────────┐     │
+│  │     Proxmox VE 虚拟化集群  │  容器编排  │ 监控   │     │
+│  └────────────────────────────────────────────────┘     │
+│                                                          │
+│  AI 层                                                    │
+│  ┌────────────────────────────────────────────────┐     │
+│  │    LLM API 集成  │  RAG 编排  │  智能分析引擎    │     │
+│  └────────────────────────────────────────────────┘     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🏗️ 项目结构
+## 🏆 核心技术亮点
+
+### 🔥 高并发系统设计
+
+```go
+// WebSocket Hub 高并发连接池
+- 房间(Room)广播机制：按角色/教室/用户隔离消息流
+- 读写分离Pump：每个客户端独立ReadPump/WritePump
+- Ping/Pong心跳：30秒保活，60秒超时自动断开
+- 非阻塞发送：Channel buffer full时自动丢弃
+
+// PVE 并发调度器
+- Goroutine工作池：可配置worker数量
+- Channel任务分发：异步任务调度
+- 批量克隆：50台VM 10秒内批量拉起
+```
+
+### 🧠 智能数据处理
+
+```go
+// 内存错误聚类引擎
+- FNV-32a哈希聚类：错误文本归一化后快速聚类
+- sync.RWMutex线程安全：读写锁保护内存Map
+- 动态阈值触发：默认20%触发教学预警
+- 5分钟冷却机制：避免重复告警
+
+// AI伴随式响应
+- 自动错误分析：6类常见错误内置解析
+- 解决方案生成：分步骤排查指南
+- 置信度评分：0.60-0.95置信度
+```
+
+### 🔒 零信任安全架构
 
 ```
-云端智师/
-├── 📁 src/                    # Vue 3 前端源码
-│   ├── 📁 views/             # 页面组件
-│   │   ├── IDCDashboard.vue      # IDC 大屏
-│   │   ├── TeacherConsole.vue    # 教师控制台
-│   │   ├── StudentTerminal.vue   # 学生终端
-│   │   ├── TeacherAudit.vue      # 审计系统
-│   │   └── ...
-│   ├── 📁 services/          # API & WebSocket 服务
-│   └── 📁 router/            # 路由配置
-│
-├── 📁 backend/               # Go 后端源码
-│   ├── 📁 cmd/server/        # 入口文件
-│   ├── 📁 internal/          # 核心模块
-│   │   ├── websocket/            # 高并发连接池
-│   │   ├── pve/                  # PVE 调度器
-│   │   ├── cluster/              # 错误聚类引擎
-│   │   ├── sandbox/              # 安全审计流
-│   │   └── probe/                # AI 伴随管道
-│   └── go.mod
-│
-└── 📁 dist/                  # 构建产物
+安全规则层
+├─ 剪贴板管控
+├─ 网络外发审计
+├─ 键盘行为监控
+├─ DLP数据防泄漏
+├─ 截屏行为管控
+└─ USB设备管控
+
+干预机制层
+├─ none   - 正常通行
+├─ warn   - 警告提示
+├─ block  - 即时阻断
+└─ suspend_vm - 虚拟机挂起
 ```
 
 ---
 
-## 📊 GitHub 统计
+## 📊 GitHub 数据
 
 <div align="center">
   
@@ -202,19 +197,20 @@ const developer = {
 
 ---
 
-## 🎨 设计灵感
+## 🎯 技术追求
 
-本项目采用 **Apple Design System** 风格的 UI 设计：
-
-- 🎨 **色彩系统**: 自定义 Apple 蓝色系配色
-- 🔤 **排版**: Inter + SF Pro Display 字体
-- 📐 **间距**: Apple 规范间距系统
-- ✨ **动画**: 平滑过渡 + 脉冲动画
-- 🌗 **暗色模式**: 完整的暗色主题支持
+| 维度 | 追求目标 |
+|:---:|:---|
+| **代码质量** | 简洁、可读、可维护，遵循 Clean Code 原则 |
+| **架构设计** | 高内聚低耦合，模块解耦，易于扩展 |
+| **性能优化** | 毫秒级响应，万级并发，资源高效利用 |
+| **用户体验** | 流畅交互，实时反馈，直觉式操作 |
+| **安全可靠** | 零信任架构，多层防护，数据一致性保障 |
+| **持续创新** | 探索 AI + 教育融合，技术驱动教学变革 |
 
 ---
 
-## 📫 联系方式
+## 📫 联系我
 
 | 平台 | 链接 |
 |:---:|:---|
@@ -228,16 +224,12 @@ const developer = {
 
 <div align="center">
   
-  ### ⭐ 感谢你的关注！
+  ### ✨ 感谢你的访问！
   
-  *如果你觉得这个项目有意思，欢迎点亮 Star ⭐*
-  
-  <a href="https://github.com/username/cloud-smart-tutor">
-    <img src="https://api.star-history.com/svg?repos=username/cloud-smart-tutor&type=Date" alt="Star History" width="400" />
-  </a>
+  *如果你对我的技术方向感兴趣，欢迎通过上述方式联系我交流探讨*
   
   ---
   
-  <sub>Made with ❤️ by 你的名字 | Powered by Vue 3 + Go + AI</sub>
+  <sub>Made with ❤️ by 你的名字 | Vue 3 + Go + AI</sub>
   
 </div>
